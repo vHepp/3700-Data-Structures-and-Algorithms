@@ -1,0 +1,4 @@
+M:\Microsoft Visual Studio\Projects\Dijkstra.MinHeap\x64\Debug\Dijkstra.MinHeap.exe
+M:\Microsoft Visual Studio\Projects\Dijkstra.MinHeap\x64\Debug\Dijkstra.MinHeap.pdb
+M:\Microsoft Visual Studio\Projects\Testing\Dijkstra.MinHeap v2\x64\Debug\Dijkstra.MinHeap.exe
+M:\Microsoft Visual Studio\Projects\Testing\Dijkstra.MinHeap v2\x64\Debug\Dijkstra.MinHeap.pdb
